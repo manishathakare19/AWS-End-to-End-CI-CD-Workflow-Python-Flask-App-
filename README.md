@@ -3,6 +3,12 @@
 
 This project demonstrates how to set up a **fully automated CI/CD pipeline** for a **Python Flask application** using AWS services like **CodePipeline, CodeBuild, and CodeDeploy**.
 
+<img width="1089" height="541" alt="Screenshot 2025-08-31 134256" src="https://github.com/user-attachments/assets/edc1dcc9-8d67-4dea-ad43-13e7effff4da" />
+
+
+<img width="1746" height="689" alt="Screenshot 2025-08-31 001850" src="https://github.com/user-attachments/assets/760027cd-aaf5-47e4-87f4-f232673c4da5" />
+
+<img width="1803" height="709" alt="Screenshot 2025-08-31 165909" src="https://github.com/user-attachments/assets/f099a6c8-e2e5-4432-aa8a-f01521281622" />
 ---
 
 ## Step 0: AWS Services Overview
@@ -162,9 +168,4 @@ Fully automated containerized deployment
 Tech Stack
 AWS CodePipeline | AWS CodeBuild | AWS CodeDeploy | EC2 | Docker | Python Flask | Parameter Store
 
-<img width="1089" height="541" alt="Screenshot 2025-08-31 134256" src="https://github.com/user-attachments/assets/edc1dcc9-8d67-4dea-ad43-13e7effff4da" />
 
-
-<img width="1746" height="689" alt="Screenshot 2025-08-31 001850" src="https://github.com/user-attachments/assets/760027cd-aaf5-47e4-87f4-f232673c4da5" />
-
-<img width="1803" height="709" alt="Screenshot 2025-08-31 165909" src="https://github.com/user-attachments/assets/f099a6c8-e2e5-4432-aa8a-f01521281622" />
