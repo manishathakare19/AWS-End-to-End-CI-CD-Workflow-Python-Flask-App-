@@ -1,6 +1,4 @@
-# AWS-End-to-End-CI-CD-Workflow-Python-Flask-App-
 
-🧾 README.md (Detailed in Markdown)
 # AWS End-to-End CI/CD Workflow – Python Flask App
 
 This project demonstrates how to set up a **fully automated CI/CD pipeline** for a **Python Flask application** using AWS services like **CodePipeline, CodeBuild, and CodeDeploy**.
