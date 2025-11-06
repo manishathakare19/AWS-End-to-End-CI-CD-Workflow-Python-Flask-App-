@@ -166,9 +166,10 @@ AWS CodePipeline | AWS CodeBuild | AWS CodeDeploy | EC2 | Docker | Python Flask 
 
 ## 🧠 GitHub Description (Short)
 
-> A complete **AWS CI/CD pipeline** for a Python Flask app using **CodePipeline, CodeBuild, and CodeDeploy**.  
+> A complete **AWS CI/CD pipeline** for a Python Flask app usin<img width="1803" height="709" alt="Screenshot 2025-08-31 165909" src="https://github.com/user-attachments/assets/f1c39dcc-5840-46cf-a6b8-f2b97a7a2c35" />
+<img width="1089" height="541" alt="Screenshot 2025-08-31 134256" src="https://github.com/user-attachments/assets/450bc17e-5133-48c0-8a37-f0a6f331a9bd" />
+<img width="1746" height="689" alt="Screenshot 2025-08-31 001850" src="https://github.com/user-attachments/assets/641c2d68-c31c-4417-b6b2-0f9dd589030e" />
+g **CodePipeline, CodeBuild, and CodeDeploy**.  
 > Includes Docker build, Parameter Store integration, and automated EC2 deployment.  
 
----
 
-Would you like me to make this version even **shorter for your GitHub README (under 50 lines)** or keep this detailed version?
